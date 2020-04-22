@@ -1,0 +1,110 @@
+[INFO ] 2020-04-16 03:51:04.271 [main] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 03:51:08.497 [main] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-16 03:51:13.370 [main] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-16 03:51:13.374 [main] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:14:33.114 [main] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:14:36.623 [main] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-16 19:14:41.530 [main] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-16 19:14:41.534 [main] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:19:21.724 [main] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:19:25.077 [main] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-16 19:19:25.617 [main] TC_LoginTest_001 - **************** Clicking on loginbtn ************* 
+[INFO ] 2020-04-16 19:19:30.628 [main] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-16 19:19:30.632 [main] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:20:54.958 [main] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-16 19:20:58.910 [main] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-16 19:20:59.292 [main] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-16 19:21:03.091 [main] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-16 19:21:03.096 [main] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2020-04-21 00:23:51.081 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:23:51.084 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:23:51.866 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:23:51.866 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:24:22.252 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:24:22.252 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 00:24:23.637 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:24:23.637 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 00:33:45.466 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:33:45.469 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:33:45.770 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:33:45.770 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:34:21.763 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:34:21.763 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 00:34:24.183 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:34:24.184 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 00:46:05.870 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-21 00:46:09.554 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-21 00:46:10.182 [TestNG-tests-1] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-21 00:46:13.808 [TestNG-tests-1] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-21 00:46:30.469 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-21 00:46:34.725 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-21 00:46:43.965 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-21 00:46:43.965 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-21 00:47:04.578 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:47:04.578 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:47:28.602 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:47:28.602 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 00:56:39.120 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-21 00:56:42.179 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-21 00:56:42.558 [TestNG-tests-1] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-21 00:56:46.121 [TestNG-tests-1] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-21 00:57:04.087 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-21 00:57:08.317 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-21 00:57:18.240 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-21 00:57:18.240 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-21 00:57:42.089 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 00:57:42.090 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 00:58:05.004 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 00:58:05.004 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 01:00:15.064 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 01:00:15.066 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 01:00:15.194 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-21 01:00:15.195 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-21 01:00:39.664 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 01:00:39.664 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-21 01:00:40.268 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-21 01:00:40.268 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-22 04:09:29.929 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-22 04:09:29.933 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-22 04:09:31.421 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-22 04:09:31.422 [TestNG-tests-1] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-22 04:10:00.882 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-22 04:10:00.882 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-22 04:10:03.319 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-22 04:10:03.319 [TestNG-tests-1] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-22 04:14:33.443 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 04:14:41.139 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 04:14:43.652 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** Search customer by Email is passed************* 
+[INFO ] 2020-04-22 04:14:43.654 [TestNG-tests-2] TC_SearchCustomerByEmail_004 - **************** End of TC_SearchCustomerByEmail_004 ************* 
+[INFO ] 2020-04-22 04:14:52.614 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-22 04:14:52.614 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-22 04:15:09.748 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** Search customer by name is passed************* 
+[INFO ] 2020-04-22 04:15:09.748 [TestNG-tests-2] TC_SearchCustomerByName_005 - **************** End of TC_SearchCustomerByName_005 ************* 
+[INFO ] 2020-04-22 04:18:29.200 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 04:18:36.060 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 04:20:29.623 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 04:20:34.487 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 04:22:46.293 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 04:22:49.918 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 04:22:59.876 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-22 04:22:59.879 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-22 22:45:25.202 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-22 22:45:30.821 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-22 22:45:31.366 [TestNG-tests-1] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-22 22:45:38.028 [TestNG-tests-1] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-22 23:21:59.420 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-22 23:22:03.265 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-22 23:22:03.660 [TestNG-tests-1] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-22 23:22:11.550 [TestNG-tests-1] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-22 23:22:26.709 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 23:22:31.175 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 23:22:40.426 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-22 23:22:40.426 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-22 23:29:59.572 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2020-04-22 23:30:03.366 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2020-04-22 23:30:03.719 [TestNG-tests-1] TC_LoginTest_001 - **************** Clicking on login Button ************* 
+[INFO ] 2020-04-22 23:30:07.694 [TestNG-tests-1] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-22 23:30:24.619 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 23:30:27.773 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 23:30:37.862 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-22 23:30:37.862 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
